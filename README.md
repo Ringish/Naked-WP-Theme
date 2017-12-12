@@ -1,1 +1,1 @@
-# directory-affiliate-theme
+# Naked-WP-Theme
